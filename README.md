@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**BaraketMariem/BaraketMariem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborat# Hi, I'm Mariem 👋
+# Hi, I'm Mariem 👋
 
 🎓 Cybersecurity Engineering Student (SSIR @ TEK-UP)  
 🔐 Focused on Offensive Security, Audit SI, and Secure Systems  
@@ -25,10 +16,4 @@ Here are some ideas to get you started:
 
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/mariem-baraket
-- Email: barakettmariem@gmail.come on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: barakettmariem@gmail.com
